@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-I'm a Data Analytics Demonstrator at Edinburgh Napier University, where I teach undergraduates data pre-processing, analysis and visualisation in **Python, OpenRefine and Weka**, applying regression, classification, clustering and forecasting to real datasets. Alongside this I'm completing my BSc (Hons) Computer Science and building software in **Python and C++**.
+I'm a Data Analytics Demonstrator at Edinburgh Napier University, where I help undergraduates with data pre-processing, analysis and visualisation in **Python, OpenRefine and Weka**, applying regression, classification, clustering and forecasting to real datasets. Alongside this I'm completing my BSc (Hons) Computer Science and building software in **Python and C++**.
  
 I'm most interested in the overlap between **data science, machine learning and security**: how models get built, how they fail, and how to make them trustworthy in production. Before this, I analysed recurring support patterns to find root causes and helped lift system reliability by **20%** for 150+ staff. I'm looking for data science, AI and software engineering roles where I can keep learning on hard technical problems.
 
